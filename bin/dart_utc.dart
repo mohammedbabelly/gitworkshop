@@ -2,7 +2,6 @@ import 'base.dart';
 
 void main(List<String> arguments) {
   var object = Base1();
-  // object
 }
 
 class Base {
