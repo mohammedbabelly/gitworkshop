@@ -1,4 +1,5 @@
 int calculate() {
   int y = 7;
-  return 6 * y;
+  int x = 6;
+  return x * y;
 }
