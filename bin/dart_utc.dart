@@ -2,6 +2,7 @@ import 'base.dart';
 
 void main(List<String> arguments) {
   var object = Base1();
+  print("Hey");
 }
 
 class Base {
